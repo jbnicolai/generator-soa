@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "async": "^0.9.0",
-    "chalk": "^0.5.1",
+    "chalk": "^1.0.0",
     "debug": "^2.0.0",
     "findup-sync": "^0.1.3",
     "generator-express": "^2.1.0",
